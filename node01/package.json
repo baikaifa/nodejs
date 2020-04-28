@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "nodemailer": "^6.4.6"
+  },
+  "name": "nodejs",
+  "description": "nodejs",
+  "version": "1.0.0",
+  "main": "dirtree.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baikaifa/nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baikaifa/nodejs/issues"
+  },
+  "homepage": "https://github.com/baikaifa/nodejs#readme"
+}
